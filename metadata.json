@@ -1,0 +1,6 @@
+{
+  "name": "SAHABI Screen Recorder",
+  "description": "Premium Screen Recording App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
